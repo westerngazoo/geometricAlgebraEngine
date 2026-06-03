@@ -1,0 +1,8 @@
+[book]
+authors = ["Jules"]
+language = "en"
+src = "src"
+title = "GA Physics Engine Workbook"
+
+[output.html]
+mathjax-support = true
